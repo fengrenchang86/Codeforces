@@ -1,5 +1,5 @@
 /*
-http://codeforces.com/contest/611/problem/E
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
